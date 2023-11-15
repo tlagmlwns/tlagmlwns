@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=tlagmlwns_Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=tlagmlwns_Github!&fontSize=70" />
 
-### 다듬어 본 언어
 #### C 
 <div align="left">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
