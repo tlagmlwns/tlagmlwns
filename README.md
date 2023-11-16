@@ -34,7 +34,7 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <div style="text-align: left;"> <a href=https://blog.naver.com/simhejun> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/simhejun"> </a>
+    <div style="text-align: left;"> <a href=https://blog.naver.com/simhejun> <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/simhejun"> </a>
          <a href=mailto:simh4jun@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:simh4jun@gmail.com"> </a>
           </div>
 </div>
